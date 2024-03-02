@@ -18,5 +18,6 @@ This dataset contains information about various attributes of a set of fruits, p
 
 **Potential Use Cases:**
 
-   •	Fruit Classification: Develop a classification model to categorize fruits based on their features.
-   •	Quality Prediction: Build a model to predict the quality rating of fruits using various attributes.
+    •	Fruit Classification: Develop a classification model to categorize fruits based on their features.
+   
+    •	Quality Prediction: Build a model to predict the quality rating of fruits using various attributes.
